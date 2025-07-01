@@ -69,7 +69,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 ### Contributors
-- **Your Name** (your.email@example.com)
+- **Subash Kumar Yadav** (github.com/subash-0)
 
 Feel free to fork and contribute to the project!
 
